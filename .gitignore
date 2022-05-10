@@ -1,0 +1,6 @@
+# UE4 ignored files/folders (generated automatically by the UEngine)
+.vs/
+/Binaries
+/Intermediate
+/Saved
+/LocalDerivedDataCache
